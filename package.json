@@ -1,0 +1,19 @@
+{
+  "author": "Devin Capriola",
+  "dependencies": {
+    "three": "^0.137.5"
+  },
+  "description": "Using three.js to build a cool website with botpeg.",
+  "devDependencies": {
+    "vite": "^2.8.4"
+  },
+  "main": "index.js",
+  "name": "botpeg-three.js",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "version": "0.0.1"
+}
