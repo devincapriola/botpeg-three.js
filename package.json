@@ -10,6 +10,10 @@
   "main": "index.js",
   "name": "botpeg-three.js",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devincapriola/botpeg-three.js.git"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
