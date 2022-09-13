@@ -5,7 +5,7 @@
   },
   "description": "Using three.js to build a cool website with botpeg.",
   "devDependencies": {
-    "vite": "^2.8.4"
+    "vite": "^2.9.13"
   },
   "main": "index.js",
   "name": "botpeg-three.js",
